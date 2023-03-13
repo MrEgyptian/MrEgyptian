@@ -1,5 +1,7 @@
-
-- 👋 Hi, I’m @MrEgyptian
+# Hey that's me 
+---
+- 👋 Hi, I’m @MrEgyptian , My name is ahmed 
+- I am a student | Free Lancer and a dev
 - 👀 I’m interested in Web Pentesting
 - 🌱 I’m currently learning CCNP
 - 💞️ I’m looking to collaborate on Web projects 
