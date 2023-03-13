@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mregyptian&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mregyptian&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m @MrEgyptian
 - 👀 I’m interested in Web Pentesting
