@@ -7,7 +7,6 @@
 - 💞️ I’m looking to collaborate on Web projects 
 - 📫 How to reach me Me@MrEgyptian.com
 
----
 thanks @ryo-ma for the profile-trophy 😅
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=mregyptian&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
