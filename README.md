@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning CCNP
 - 💞️ I’m looking to collaborate on Web projects 
 - 📫 How to reach me Me@MrEgyptian.com
+-------------------
 My Profile Stats :
 [![stats](https://github-readme-stats.vercel.app/api?username=MrEgyptian&count_private=true&include_all_commits=true)](https://github.com/ryo-ma/github-profile-trophy)
 
